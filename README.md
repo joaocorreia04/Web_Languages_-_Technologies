@@ -1,2 +1,5 @@
-# Web_Languages_-_Technologies
-Project developed during 2nd Year 2nd Semester
+# Web Languages & Technologies
+## Final grande: 
+### Project grade: 14/20
+
+
