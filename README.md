@@ -9,8 +9,7 @@
 
 ## Install Instructions
 
-    git clone https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g01.git
-    git checkout final-delivery-v1
+    git clone https://github.com/joaocorreia04/Web_Languages_-_Technologies.git
     php -S localhost:9000
 
     Note: Database is already povoated with some examples (items, users, messages)
