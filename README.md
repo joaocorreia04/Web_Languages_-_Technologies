@@ -1,7 +1,7 @@
 # Web Languages & Technologies
 
 # TRINTED
-
+## Final Grade: 14/20
 ## Project grade: 14/20
 
 - João Correia | up202005015 | 50%
