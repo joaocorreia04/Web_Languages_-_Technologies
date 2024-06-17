@@ -2,7 +2,7 @@
 
 # TRINTED
 
-## Group ltw04g01
+## Project grade: 14/20
 
 - João Correia | up202005015 | 50%
 - Miguel Figueiredo | up201706105 | 50%
